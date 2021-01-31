@@ -468,8 +468,8 @@ function options() {
 	
 	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
 	
-	console.log('𝗦𝗽𝗮𝗺𝗿𝗶𝘁𝗼 𝘃𝟯.𝟬'.help);
-	console.log('      𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗞𝗶𝗿𝗶𝘁𝗼𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹\n'.help);
+	console.log('MEU OVO'.help);
+	console.log('      TUTU LINDO\n'.help);
 	
 	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
 	
